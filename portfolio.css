@@ -1,3 +1,17 @@
 * {
-	background-image: images/paintsplat.jpg
+	background-image: url("images/paintsplat.jpg");
+}
+h1 {
+	position: fixed;
+	width: 100%;
+	top: 0px;
+	background : black;
+	color: #4dff4d;
+	margin: auto;
+	border: 10 px solid black;
+	padding-left: 5%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font-size: 40px;
+	margin-left: 0px;
 }
