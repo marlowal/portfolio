@@ -1,12 +1,12 @@
 * {
-	background-image: url("images/paintsplat.jpg");
+	background: black;
 }
 h1 {
 	position: fixed;
 	width: 100%;
 	top: 0px;
-	background : black;
-	color: #4dff4d;
+	background : #00ffcc;
+	color: #ff0066;
 	margin: auto;
 	border: 10 px solid black;
 	padding-left: 5%;
@@ -14,4 +14,23 @@ h1 {
 	padding-bottom: 5%;
 	font-size: 40px;
 	margin-left: 0px;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+.art {
+	width: 25%;
+	padding-top: 1.5%;
+	padding-left: 1.5%;
+	padding-bottom: 1.5%;
+	float: left;
+	padding-right: 2%
+}
+.first {
+	padding-top: 100px;
+}
+.sample {
+	border: 5px solid #9966ff;
+	overflow: auto;
+}
+p {
+	color: white;
 }
