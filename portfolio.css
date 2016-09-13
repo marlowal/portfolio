@@ -47,6 +47,9 @@ p {
 		padding-bottom: 30px;
 		display: block;
 }
+	.link {
+		font-size: 20px;
+	}
 }
 @media screen and (max-width:499px) {
 	h1 {
@@ -81,6 +84,10 @@ p {
 		padding-top: 10%;
 		padding-bottom: 30px;
 		align-self: center;
+	}
+	.link {
+		font-size: 25px;
+		background: #FFC400;
 	}
 
 	}
