@@ -41,8 +41,11 @@ p {
 }
 .video {
 		align: center;
-		width: 40%;
-		padding-top: 10%;
+		width: 500px;
+		padding-top: 15%;
+		padding-left: 5%;
+		padding-bottom: 30px;
+		display: block;
 }
 }
 @media screen and (max-width:499px) {
@@ -73,9 +76,11 @@ p {
         animation-iteration-count: 1;
 	}
 	.video {
-		display: inline-block;
+		display: block;
+		margin: 0 auto;
 		padding-top: 10%;
-		padding-left: 5%;
+		padding-bottom: 30px;
+		align-self: center;
 	}
 
 	}
